@@ -7,13 +7,12 @@
 
 ## Project Overview
 
-This project utilizes data from Zillow for a Time Series model to determine which zip codes in the United States would be the best to invest in. We aim to forecast and recommend which 5 zip codes would be the best for the real-estate investment firm to invest in regards to 5-Year Return on Investment and Down Deviation.
-
+This project is intended to provide the Minnesota Department of Transportation (MNDOT) with information and recommendations about what factors lead to heavy traffic volume and if anything can be done along I-94 to mitigate these factors.
 
 ## Data Overview & Business Goal
 
 
-### Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 
 ## Modeling & Evaluation
