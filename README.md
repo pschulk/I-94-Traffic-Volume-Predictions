@@ -33,7 +33,7 @@ After iterating through several different models where I added the weather data,
 
 ![Train/Test Split](./images/train_test_split.png)
 
-Next, I trained mt final model on the entire dataset and used that to predict the next two years of traffic data. In order to use multiple variables to predict future values, Prophet requires data for each of those variables for the desired future prediction dates. I once again used NOAA data to fill out the temperature and precipitation values then created a separate model to generate future percent cloud cover data. The end result are these predicted traffic values for October 2018 through September 2020, which show that traffic volume decreases as the cold Minnesota winter approaches and increases again when the weather improves.
+Next, I trained my final model on the entire dataset and used that to predict the next two years of traffic data. In order to use multiple variables to predict future values, Prophet requires data for each of those variables for the desired future prediction dates. I once again used NOAA data to fill out the temperature and precipitation values then created a separate model to generate future percent cloud cover data. The end result are these predicted traffic values for October 2018 through September 2020, which show that traffic volume decreases as the cold Minnesota winter approaches and increases again when the weather improves.
 
 ![Final Predictions](./images/final_predictions.png)
 
