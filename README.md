@@ -51,7 +51,7 @@ To improve upon this process in the future, I could incorporate additional data 
 
 ## For More Information
 
-Please review my full analysis in my [Jupyter notebook](./Final_Notebook.ipynb) or my [presentation](./Presentation.pdf).
+Please review my full analysis in my [Jupyter notebook](./Final_Notebook.ipynb) or my [presentation](./presentation.pdf).
 
 ## Repository Structure
 
@@ -62,5 +62,5 @@ Please review my full analysis in my [Jupyter notebook](./Final_Notebook.ipynb) 
 ├── .gitignore                          <- Code to avoid uploading specified files
 ├── Final_Notebook.ipynb                <- Narrative documentation of analysis in Jupyter notebook
 ├── README.md                           <- The top-level README for reviewers of this project
-├── Presentation.pdf                    <- PDF version of project presentation
+├── presentation.pdf                    <- PDF version of project presentation
 ```
