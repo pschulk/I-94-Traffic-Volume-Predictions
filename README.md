@@ -39,15 +39,11 @@ Next, I trained my final model on the entire dataset and used that to predict th
 
 ## Conclusion & Recommendations
 
-As important as it is to verify visual data with hard modeling, the opposite can also be true. Throughout the modeling process, I found that percent cloud cover was the most important predictive factor and decided to plot it against traffic volume. From the graph, we can indeed see that traffic volume, on average, increases with almost every single increase in percent cloud cover.
-
-![Cloud Cover Against Traffic Volume](./images/cloud_cover_traffic_volume.png)
-
 Due to the fact that traffic volume tends to increase as general visiblity decreases, I recommend installing lighting systems along any stretch of I-94 that doesn't currently have it. In addition, I recommend regular inspection of reflectors, pavement markings, and signage to ensure reflectivity. Lastly, I recommend the promotion of alternate transporation options for high-volume events like the State Fair. There is a park-and-ride system in place already, but this could be incentivized through things like discounted fair tickets or food vouchers for public transit users.
 
 ## Future Insights & Next Steps
 
-To improve upon this process in the future, I could incorporate additional data like the presence of collisions and scrape actual traffic volume or cloud cover data to fill in any gaps. Also, the Prophet model allows for expansion of holidays beyond just one day, so I could include the day before Thanksgiving and the period between Christmas and New Year's as these tend to be big travel days.
+To improve upon this process in the future, I could incorporate additional data like the presence of collisions and scrape actual traffic volume or cloud cover data to fill in any gaps. I could consider dates like the day before Thanksgiving and the period between Christmas and New Year's as holidays as these tend to be big travel days. Finally, I could focus on the introduction of the Metro Green Line light rail system, which opened to the public in June 2014, to determine if this impacted traffic volume.
 
 ## For More Information
 
