@@ -51,7 +51,7 @@ To improve upon this process in the future, I could incorporate additional data 
 
 ## For More Information
 
-Please review my full analysis in my [Jupyter notebook](./I-94_Traffic_Volume_Analysis_&_Predictions.ipynb) or my [presentation]('./I-94_Traffic_Volume_Presentation.pdf').
+Please review my full analysis in my [Jupyter notebook](./I-94_Traffic_Volume_Analysis_&_Predictions.ipynb) or my [presentation](./I-94_Traffic_Volume_Presentation.pdf).
 
 ## Repository Structure
 
