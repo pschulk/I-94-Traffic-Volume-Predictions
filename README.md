@@ -51,7 +51,7 @@ To improve upon this process in the future, I could incorporate additional data 
 
 ## For More Information
 
-Please review my full analysis in my [Jupyter notebook](./I-94_Traffic_Volume_Analysis_&_Predictions.ipynb) or my [presentation](./I-94 Traffic Volume Analysis & Predictions.pdf).
+Please review my full analysis in my [Jupyter notebook](./I-94_Traffic_Volume_Analysis_&_Predictions.ipynb) or my [presentation](./I-94_Traffic_Volume_Presentation.pdf).
 
 ## Repository Structure
 
@@ -62,5 +62,5 @@ Please review my full analysis in my [Jupyter notebook](./I-94_Traffic_Volume_An
 ├── .gitignore                                              <- Code to avoid uploading specified files
 ├── I-94_Traffic_Volume_Analysis_&_Predictions.ipynb        <- Narrative documentation of analysis in Jupyter notebook
 ├── README.md                                               <- The top-level README for reviewers of this project
-├── I-94 Traffic Volume Analysis & Predictions.pdf          <- PDF version of project presentation
+├── I-94_Traffic_Volume_Presentation.pdf                    <- PDF version of project presentation
 ```
