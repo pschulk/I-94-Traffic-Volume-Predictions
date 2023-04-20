@@ -33,7 +33,7 @@ After iterating through several different models where I added the weather data,
 
 ![Train/Test Split](./images/train_test_split.png)
 
-Next, I trained mt final model on the entire dataset and used that to predict the next two years of traffic data. In order to use multiple variables to predict future values, Prophet requires data for each of those variables for the desired future prediction dates. I once again used NOAA data to fill out the temperature and precipitation values then created a separate model to generate future percent cloud cover data. The end result are these predicted traffic values for October 2018 through September 2020, which show that traffic volume decreases as the cold Minnesota winter approaches and increases again when the weather improves.
+Next, I trained my final model on the entire dataset and used that to predict the next two years of traffic data. In order to use multiple variables to predict future values, Prophet requires data for each of those variables for the desired future prediction dates. I once again used NOAA data to fill out the temperature and precipitation values then created a separate model to generate future percent cloud cover data. The end result are these predicted traffic values for October 2018 through September 2020, which show that traffic volume decreases as the cold Minnesota winter approaches and increases again when the weather improves.
 
 ![Final Predictions](./images/final_predictions.png)
 
@@ -51,11 +51,16 @@ To improve upon this process in the future, I could incorporate additional data 
 
 ## For More Information
 
+<<<<<<< HEAD
 Please review my full analysis in my [Jupyter notebook](./I-94_Traffic_Volume_Analysis_&_Predictions.ipynb) or my [presentation](./I-94 Traffic Volume Analysis & Predictions.pdf).
+=======
+Please review my full analysis in my [Jupyter notebook](./Final_Notebook.ipynb) or my [presentation](./presentation.pdf).
+>>>>>>> 99d373f9795c4b253ad8b54db9dcddb8da0284cb
 
 ## Repository Structure
 
 ```
+<<<<<<< HEAD
 ├── data                                                    <- Jupyter notebooks for data exploration and testing
 ├── exploratory_files                                       <- Both sourced externally and generated from code
 ├── images                                                  <- Data files used in analysis
@@ -64,3 +69,13 @@ Please review my full analysis in my [Jupyter notebook](./I-94_Traffic_Volume_An
 ├── README.md                                               <- The top-level README for reviewers of this project
 ├── I-94 Traffic Volume Analysis & Predictions.pdf          <- PDF version of project presentation
 ```
+=======
+├── data                                <- Jupyter notebooks for data exploration and testing
+├── exploratory_files                   <- Both sourced externally and generated from code
+├── images                              <- Data files used in analysis
+├── .gitignore                          <- Code to avoid uploading specified files
+├── Final_Notebook.ipynb                <- Narrative documentation of analysis in Jupyter notebook
+├── README.md                           <- The top-level README for reviewers of this project
+├── presentation.pdf                    <- PDF version of project presentation
+```
+>>>>>>> 99d373f9795c4b253ad8b54db9dcddb8da0284cb
